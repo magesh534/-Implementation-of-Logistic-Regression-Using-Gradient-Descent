@@ -9,11 +9,22 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Use the standard libraries in python for finding linear regression 
+
 2.Set variables for assigning dataset values.
+
+
 3. Import linear regression from sklearn. 
+
+
 4.Predict the values of array.
+
+
 5. Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+
+
 6. Obtain the graph
+
+
 ## Program:
 ```
 /*
@@ -120,25 +131,65 @@ np.mean(predict(res.x,x)==y)
 
 ## Output:
 1.Array Value of x
+
+
 ![ex 5 1](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/c2f189f6-4491-46e8-8218-233b5d57c2b6)
+
+
 2.Array Value of y
+
+
 ![ex 5 2](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/70e5f1b6-ce13-46ad-8687-b5210bfeafb9)
+
+
 2.Array Value of y
+
+
 ![ex 5 3](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/deff6b9f-8b69-488d-b370-3f70faadbad0)
+
+
 4.Sigmoid function graph
+
+
 ![ex 5 4](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/4b4faefe-f30a-4d07-a114-c892e05ef3a5)
+
+
 5.x_train_grad value
+
+
 ![ex 5 5](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/34b7249f-8478-459d-b4a7-2f0b694e49c3)
+
+
 6.y_train_grad value
+
+
 ![ex 5 6](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/0a879df2-9187-4dab-9921-c9718cec526a)
+
+
 7.Print res.x
+
+
 ![ex 5 7](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/3bcec7f0-6d22-4cb2-8735-24a09615c310)
+
+
 8.Decision boundary-graph for exam score
+
+
 ![ex 57](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/f2a0f3f4-e755-44f5-b1ba-bc4f9693ab09)
+
+
 9.Probability value
+
+
 ![ex 5 8](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/cb63226b-fbfc-48f2-9e82-be89eba2a12f)
+
+
 10.Prediction value of mean
+
+
 ![ex 5 9](https://github.com/magesh534/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135577936/8002fcd1-1de8-43e2-b267-ae291554d8a1)
+
+
 
 
 
